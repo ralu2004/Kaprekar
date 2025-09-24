@@ -30,7 +30,7 @@ For example, starting with the number 3524:
 ```bash
 Kaprekar/
 ├── README.md # Project documentation
-├── DATA.TXT # Input data file
+├── DATA.TXT # Output file: the number of iterations for each 4-digit number
 ├── maclib.asm # Assembly macros
 ├── main.asm # Main program logic
 └── proclib.asm # Procedure library
