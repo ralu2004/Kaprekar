@@ -47,7 +47,7 @@ Kaprekar/
 --- 
 
 ## 🚀 How to Run
-# Option 1: Using DOSBox (classic)
+### Option 1: Using DOSBox (classic)
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ralu2004/Kaprekar.git
@@ -63,7 +63,7 @@ Kaprekar/
    ```
 4. **Input a four-digit number (e.g., 3524) when prompted.**
 
-# Option 2: Using Visual Studio Code
+### Option 2: Using Visual Studio Code
 1. **Open the project in VS Code.**
 2. **Assemble main.asm with NASM (either in the terminal or using an extension):**
 ```bash
@@ -77,12 +77,12 @@ nasm -f bin main.asm -o kaprekar.com
    
 --- 
 
-##📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-##📬 Contact
+## 📬 Contact
 GitHub profile: https://github.com/ralu2004
 
